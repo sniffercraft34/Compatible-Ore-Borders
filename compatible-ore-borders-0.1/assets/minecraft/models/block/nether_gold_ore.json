@@ -1,0 +1,7 @@
+{
+    "parent": "block/ore_block",
+    "textures": {
+      "ore_block": "block/nether_gold_ore",
+      "block": "block/gold_block"
+    }
+}

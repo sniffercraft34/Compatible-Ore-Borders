@@ -1,0 +1,7 @@
+{
+    "parent": "block/ore_block",
+    "textures": {
+      "ore_block": "block/diamond_ore",
+      "block": "block/diamond_block"
+    }
+}

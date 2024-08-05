@@ -1,0 +1,7 @@
+{
+    "parent": "block/ore_block",
+    "textures": {
+      "ore_block": "block/deepslate_copper_ore",
+      "block": "block/copper_block"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/ore_block",
+    "textures": {
+      "ore_block": "block/gilded_blackstone",
+      "block": "block/gold_block"
+    }
+}

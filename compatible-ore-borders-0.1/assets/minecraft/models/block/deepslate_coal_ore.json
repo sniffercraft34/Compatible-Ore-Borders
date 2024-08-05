@@ -1,0 +1,7 @@
+{
+    "parent": "block/ore_block",
+    "textures": {
+      "ore_block": "block/deepslate_coal_ore",
+      "block": "block/coal_block"
+    }
+}
